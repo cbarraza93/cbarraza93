@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @cbarraza93
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Data Analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-cbarraza93/cbarraza93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Christopher Barraza
+I Completed my certification in Data Analytics and Visualization at The University of Texas at San Antonio. 
+I am an innovative tech minded individual with great attention to detail and analytical skills. 
+Fast learner with 10 years of experience in Revenue Cycle Management. 
+Capable of working with various technologies and programming languages such as Python, SQL, Javascript, HTML5, Excel, Tableau, PowerBI, and more to provide outstanding results.
